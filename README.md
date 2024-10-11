@@ -6,15 +6,14 @@ Our mission is to ensure every student has access to high-quality, innovative le
 
 ### Our Focus:
 
-Personalized Learning Paths
-Student Performance Prediction
-Automated Grading
-Intelligent Tutoring
-Smart Content Creation
-Enhanced Search
-Adaptive Learning
-AI-Assisted Peer Review
-Multimodal Learning
+1. Personalized Learning Paths
+2. Student Performance Prediction
+3. Automated Grading
+4. Intelligent Tutoring
+5. Smart Content Creation
+6. Adaptive Learning
+7. AI-Assisted Peer Review
+8. Multimodal Learning
 
 
 
