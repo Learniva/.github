@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-## Welcome to Learniva! 🌍
+## Welcome to Learniva AI ! 🌍
 
 
 We want to revolutionize education by providing a modern, scalable, and AI-powered Student Portal & Learning Management System (LMS) that empowers students worldwide. 
